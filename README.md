@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**jonghechoi/jonghechoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 나를 소개하는 한 문장
+나를 소개하는 5 문장 <br>
+나를 소개하는 5 문장 <br>
+나를 소개하는 5 문장 <br>
+나를 소개하는 5 문장 <br>
+나를 소개하는 5 문장 <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+
+### 교육과정 수료
+* 의료용 디지털 영상 표준(DICOM)활용 의료A.I 연동 개발 실무 프로젝트 수료 (2023.9.25 ~ 2023.11.30)
+* 자바(JAVA) 웹개발(백앤드)&앱개발자(클라우드활용) 과정 수료 (2023.02.14 ~ 2023.08.30)
+
+---
+
+### 참여 프로젝트
+1. [의료용 디지털 영상 DICOM 활용 웹 뷰어 프로젝트] (about:blank)
+2. [레스토랑 예약 웹 서비스 프로젝트] (태스크툴주소)
+3. [프로젝트3] (깃헙리포지토리주소)
+4. [프로젝트4] (배포 링크)
+
+---
+
+### 보유 기술
+* Java
+* 등등
+
