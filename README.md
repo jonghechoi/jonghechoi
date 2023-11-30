@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Static Badge](https://img.shields.io/badge/MyBadge-blue)](mailto:sosinnmi@naver.com)
+![views](https://gh-hits.nomadcoders.workers.dev/view?username=jonghechoi)
 
 ---
 
@@ -26,6 +28,10 @@
 ---
 
 ### 보유 기술
-* Java
-* 등등
+![Static Badge](https://img.shields.io/badge/Java-6DB33F?style=plastic&logo=OpenJDK&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white)
+* Java 
+* Spring
+* Spring Boot
 
