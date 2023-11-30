@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Static Badge](https://img.shields.io/badge/MyBadge-blue)](mailto:sosinnmi@naver.com)
+[![Static Badge](https://img.shields.io/badge/Email-blue)](mailto:sosinnmi@naver.com)
 ![views](https://gh-hits.nomadcoders.workers.dev/view?username=jonghechoi)
 
 ---
